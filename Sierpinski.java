@@ -2,7 +2,7 @@
  *  Compilation:  javac Sierpinski.java
  *  Execution:    java Sierpinski
  *
- *  @author: Cyrus Majd         EMAIL: cm1355@scarletmail.rutgers.edu           NETID: cm1355
+ *  @author: Cyrus Majd         
  *
  *************************************************************************/
 
